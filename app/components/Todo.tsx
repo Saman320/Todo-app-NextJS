@@ -71,7 +71,7 @@ const Todo = () => {
 
   return (
     <div
-      className="min-h-screen flex flex-col items-center justify-center bg-cover bg-center h-screen"
+      className="min-h-screen flex flex-col items-center justify-center bg-cover bg-center h-screen text-gray-900"
       style={{ backgroundImage: "url('/images/bg1.jpg')" }}
     >
       <div className="bg-white shadow-2xl rounded-lg w-full max-w-sm p-6 sm:p-8 space-y-6 hover:shadow-gray-800">
