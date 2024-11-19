@@ -76,7 +76,7 @@ const Todo = () => {
     >
       <div className="bg-white shadow-2xl rounded-lg w-full max-w-sm p-6 sm:p-8 space-y-6 hover:shadow-gray-800">
         <h1 className="text-2xl sm:text-3xl font-extrabold text-center text-[#082f49]">
-          Todo App
+         Create <br /> To-do List
         </h1>
         <textarea
           value={todoName}
